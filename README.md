@@ -7,7 +7,9 @@ Run the rool with 'python reddit.py' in terminal, or just double click it in win
 This tool will do the following for every phrase in your list
 
 >Double every instance of the letter 'b'
+
 >Swap all 'e's for '3's
+
 >Capitalise the last letter of every word
 
 It will then write all the modofied words to output.txt in your current directory
