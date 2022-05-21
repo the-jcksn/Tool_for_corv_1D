@@ -2,9 +2,12 @@
 Applies the rules you specified
 
 Get a list of the phrases you want to apply the rules to into a text file
+
 Download this tool and put it in the same directory as the list
+
 Run the rool with 'python reddit.py' in terminal, or just double click it in windows (you must have python3 installed)
-This tool will do the following for every phrase in your list
+
+This tool will do the following for every phrase in your list:
 
 >Double every instance of the letter 'b'
 
