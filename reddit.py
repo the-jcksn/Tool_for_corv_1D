@@ -1,6 +1,6 @@
 #tool for random redditor
 
-user_input = input('Please enter the name of the input phrases to modify: ')
+user_input = input('Please enter the name of the input file containing the phrases to modify: ')
 all_output_phrases = []
 with open(user_input,'r') as phrases_file:
     for phrase in phrases_file:
