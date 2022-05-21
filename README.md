@@ -15,4 +15,4 @@ This tool will do the following for every phrase in your list:
 
 >Capitalise the last letter of every word
 
-It will then write all the modofied words to output.txt in your current directory
+It will then write all the modified phrases to output.txt in your current directory
